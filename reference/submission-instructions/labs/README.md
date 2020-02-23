@@ -112,8 +112,4 @@ jobs:
 
 - [Node.js Applications](./node-apps.md)
 - [Express/Server Applications](./express-servers.md)
-- [React Applications](./react-apps.md)
-
- | i | j | temp | temp<arr[j] | while | arr[j+1] | 
- |---|---|------|-------------|-------|----------|
- | 1 | 0 |  4   |     4<8     |   T   |  4       |  
+- [React Applications](./react-apps.md) 
